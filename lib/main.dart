@@ -236,7 +236,7 @@ class _MyHomePageState extends State<MyHomePage> {
                                 mainAxisSize: MainAxisSize.min,
                                 children: <Widget>[
                                   new Text(
-                                    '姓名：宋景鹤',
+                                    '姓名：瑟曦',
                                     style: new TextStyle(fontSize: 20.0,
                                         fontWeight: FontWeight.bold),
                                   ),
